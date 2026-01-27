@@ -3,11 +3,10 @@ layout: post
 title: "Fundamentals first"
 date: 2026-01-20
 ---
-In general I think my mid-late game macro has improved, but I am losing games now because of laning. To improve this:
+The more I play the more I realize I actually lack a lot of fundamental skill and always try to get carried by someone else instead of carrying myself. Some problems:
 
-- I am dropping TF because I think playing him lets me skip over trading fundamentals, and bad laning ==> weak mid-game and sidelaning ==> can't pressure sides of the map ==> failure to extract value out of his macro complexity in mid-late.
+- I am dropping TF because I am just relying on his ult to snowball bot/gold card to peel in teamfights. My laning on him is quite bad, and bad laning ==> weak mid-game and sidelaning ==> can't really pressure sides of the map ==> can't create numbers advantages in teamfights.
 
-- I still enjoy the playstyle of shoving -> roaming -> teamfight, so I will probably pick up Galio to replace him. Same mobility with R, but more forgiving laning tools.
+- A more failsafe version of this is probably Galio. Similar mobility with R and peel in the rest of his kit, but more forgiving laning/teamfight tools.
 
-- I will also pick up Syndra, who seems to have everything you would want in a mid-laner; can play like a normal control mage in front-to-back fights, and has some great assassin/pick capabilities in later stages of the game. 
-	- Syndra has a hard time against enemies that can easily gap close. So we pick Syndra when we are confident that we can space, otherwise Galio.
+- Kind of want to pick up Syndra, who seems to really good versatility; can play like a normal control mage in front-to-back fights, and has some great assassin/pick capabilities in later stages of the game.

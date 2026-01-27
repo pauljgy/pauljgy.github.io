@@ -3,6 +3,6 @@ layout: post
 title: "Focus on winning, not LP"
 date: 2026-01-22
 ---
-Brief message for today; just need a reminder that it is a fool's game to worry about LP/our visible rank. All that matters is increasing MMR.
+Brief message for today; just need a reminder that it does no good to worry about LP/our visible rank. Should treat every game like any other game, and try our best to win.
 
-Loss streaks will happen, but we just try our best to make our own game better. The wins will come.
+It is better in the long run to worry less about rank and more about actually improving in each game. Try to learn something from every game, as there's an unlimited number of things to improve on.
