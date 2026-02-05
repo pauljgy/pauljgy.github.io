@@ -11,6 +11,7 @@ Some learnings from the top lane climb:
 - There are a few things to think about during draft: your lane matchup, your team's/enemy's team comp, your team's/enemy's top-jungle synergy. I'm not saying you need to min-max across all of these criteria, but usually you want to pick the champion in your (ideally small) champ pool that can roughly maximize the value your team gets in each of those categories.
 - Sometimes it is worthwhile to pick a bad matchup to strengthen your teamfight.
 - Also, it is helpful to plan your early game and mid game in champ select. Think of how you would ideally play the lane, trading patterns, champion synergies.
+- This is where you can identify your team's win con and the enemy's win con. Plan to snowball your win con, and to shut down the enemy's.
 
 2) **Champ mastery.** 
 - Really important to know your champion identity and to exploit it as much as you can. Your champion identity kind of has two parts - one in lane and one in teamfights - and IMO I got LP from consistently playing around those two parts.
@@ -40,3 +41,6 @@ Some more meta strats:
 - These players are in the same rank as you, and make the same mistakes as you do.
 - One good play from behind can tilt the enemy team, which can snowball into a win.
 - Comeback wins happen way more often than I thought they did!
+
+3) **Adjust for brainless team members.**
+- Sometimes your win con is not a real person, but someone else on your team is actually using common sense. It is helpful to be able to identify which people on your team are smart players, and to work with them to win.
