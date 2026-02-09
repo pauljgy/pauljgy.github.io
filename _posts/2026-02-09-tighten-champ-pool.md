@@ -35,7 +35,8 @@ Notes on each champion:
 - If long and volatile, take LT + ignite and rush phage to run them down.
 
 4) **Darius**
-- Mainly play this against Garen or lots of melee champs
+- Mainly play this against Garen or lots of melee champs so we can stack passive easily
+- Need to use early game advantage to crash W3 and then freeze at turret for rest of laning phase
 
 5) **Gragas**
-- Play if team needs AP.
+- Play if team needs AP/CC
