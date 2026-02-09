@@ -10,6 +10,7 @@ Champ pool should be:
 - **Counter: Darius, Gragas**
 
 Notes on each champion:
+
 1) **Mundo**
 - Only goal is to get to heartsteel + warmogs as fast as possible.
 - Play safe and only harass if the Q is free. O.w., prioritize farm in lane.
