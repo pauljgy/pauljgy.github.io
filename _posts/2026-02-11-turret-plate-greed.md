@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Greeding for plates loses games"
-date: 2026-02-10
+date: 2026-02-11
 ---
 Greeding for those damn plates turned an easily winnable game into a loss; greeded for a plate on mid T2 with about 30 seconds left on drag, and ended up getting collapsed on by 4 on the enemy team.
 
