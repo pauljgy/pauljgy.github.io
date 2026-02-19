@@ -5,7 +5,7 @@ date: 2026-02-18
 ---
 DIAMOND TOP LANER (W/L was 166-138, win rate of ~55%.)
 
-W/L through emerald was 57/40.
+W/L through emerald was 57/40. Ultimately, it feels like I got here just by nailing the basics of the game - no special tricks or mechanics needed.
 
 # Lessons
 
