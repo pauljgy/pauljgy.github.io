@@ -9,3 +9,4 @@ date: 2026-02-26
 - So you have to ignore team, but be brutally honest with yourself about your own performances
 - Everyone is on a path of improvement so you are not alone in the climb
 - Humility and resilience is 99% of the battle
+- and at the end of the day, improving is fun, so you should do everything you can to help yourself play better
